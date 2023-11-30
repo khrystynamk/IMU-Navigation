@@ -92,8 +92,9 @@ In this project we are using RISC Microcontroller: **STM32F411E-DISCO**.
 
 ### Components
 
-- GY-521/MPU6050 — giro + acc
-- FXOS8700+FXAS21002 — giro + acc + mag
+- LSM303DLHC (mag + acc)
+- L3GD20 (gyro)
+- UART
 
 ---
 
