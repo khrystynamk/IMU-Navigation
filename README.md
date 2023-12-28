@@ -165,7 +165,7 @@ Euler angles $\psi$, $\theta$ and $\phi$ in the so-called three-rotation ****aer
 - $\theta$ around $\widehat y_B$ — pitch,
 - $\phi$ around $\widehat x_B$ — roll.
 
-<img src="https://www.researchgate.net/publication/329603549/figure/fig1/AS:703246263926788@1544678383831/An-illustration-of-the-three-angles-yaw-pitch-and-roll-returned-by-the-Hyper-IMU.png"  width="80%">
+<img src="Media/roll_pitch_yaw.png"  width="80%">
 
 
 This Euler angle representation of $_B^A\widehat q$ is defined by equations:
